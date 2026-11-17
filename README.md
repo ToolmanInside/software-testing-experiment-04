@@ -29,5 +29,5 @@ NextDate 程序中有 3 个输入，分别对应一个日期的年、月、日�
 1. 等价类划分须至少包括有效等价类和无效等价类
 2. 边界值分析须至少包括边界值和边界临近值
 3. 在报告中须包含测试用例、代码以及运行截图
-4. 提交报告命名为`学号-姓名-实验4.docx`，提交地址 https://docs.qq.com/form/page/DYm5sdHRHd0ViTW5D
-5. DDL：2025-11-18 23:59:59
+4. 提交报告命名为`学号-姓名-实验4.docx`，提交地址 https://docs.qq.com/form/page/DYmtiZG1uUHRKTWdW
+5. DDL：2026-12-01 23:59:59
